@@ -7,6 +7,7 @@
 * [3. Objetivos](#3-objetivos)
 * [4. Historias de usuario](#3-historias-de-usuario)
 * [5. Diseño interfaz de usuario](#4-diseño-interfaz-de-usuario)
+* [6. Deploy App](#6-deploy-app)
 
 
 ***
@@ -63,5 +64,6 @@ en la que podamos **leer y escribir datos**.
 
 <img src = "https://trello.com/1/cards/6227f2f672e7ae265c989edb/attachments/6227f2fa86fee332d79254ad/download/image.png">
 
-
+## 6. Deploy App
+[OtakuGeek](https://kgiselle.github.io/BOG003-social-network/src/index.html)
 
