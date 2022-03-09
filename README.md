@@ -59,9 +59,9 @@ en la que podamos **leer y escribir datos**.
 
 ## 5. Diseño interfaz de usuario
 
-<img src = "https://trello.com/c/ss3Bu1q4/204-prototipo-alta-fidelidad-hu1-3">
+<img src = "https://trello.com/1/cards/6227f275b1a2f54e4d71d561/attachments/6227f27d9ebeea4cdcfaa268/download/image.png">
 
-<img src = "https://trello.com/c/SDwpotOS/205-prototipo-alta-fidelidad-hu4-7">
+<img src = "https://trello.com/1/cards/6227f2f672e7ae265c989edb/attachments/6227f2fa86fee332d79254ad/download/image.png">
 
 
 
