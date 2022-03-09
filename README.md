@@ -5,8 +5,8 @@
 * [1. Resumen del proyecto](#1-resumen-del-proyecto)
 * [2. Definición del proyecto](#2-definición-del-proyecto)
 * [3. Objetivos](#3-objetivos)
-* [4. Historias de usuario](#3-historias-de-usuario)
-* [5. Diseño interfaz de usuario](#4-diseño-interfaz-de-usuario)
+* [4. Historias de usuario](#4-historias-de-usuario)
+* [5. Diseño interfaz de usuario](#5-diseño-interfaz-de-usuario)
 * [6. Deploy App](#6-deploy-app)
 
 
@@ -30,7 +30,7 @@ Al mismo tiempo que realizamos la etapa de feedback con los usuarios realizamos 
 Este proyecto no incluye un _boilerplate_, así es que tuvimos que definir la estructura de carpetas y escribir nuestras propias Pruebas Unitarias (_tests_), guiandonos por los proyectos anteriores.
 
 
-##3. Objetivos
+## 3. Objetivos
 
 El objetivo principal de la aplicación es permitir a cualquier usuario crear una cuenta de
 acceso y loguearse con ella; crear, editar, borrar y _"likear"_ publicacciones.
